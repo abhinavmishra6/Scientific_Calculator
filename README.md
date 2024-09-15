@@ -19,4 +19,7 @@ This is a scientific calculator built using Python and Tkinter. It supports basi
   - Factorial calculation: x!.
   - Power operations: x^2, x^y.
 
+## Screenshots
+
+![Calculator Screenshot](calculator.png)
 
