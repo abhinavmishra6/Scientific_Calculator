@@ -7,7 +7,6 @@ This is a scientific calculator built using Python and Tkinter. It supports basi
 
 - Python 3.x
 - Tkinter (usually included with Python)
-- 
 ## Features
 
 - **Basic Operations**: Addition, subtraction, multiplication, division.
